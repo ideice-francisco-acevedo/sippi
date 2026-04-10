@@ -34,7 +34,10 @@ Thumbs.db
 
 # Temporary directories
 temp_docx/
-sippi/  # Duplicate directory
+sippi/  # Duplicate directory (embedded git repo)
+
+# Embedded git repository
+/sippi/
 
 # Database dumps (except schema)
 *.sql
