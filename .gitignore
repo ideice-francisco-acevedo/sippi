@@ -1,0 +1,41 @@
+# Temporary files
+*.tmp
+*.temp
+nul
+
+# Test files
+test_*.php
+*_test.php
+load_test_data.php
+
+# Documentation (Word files)
+*.docx
+*.doc
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment files
+.env
+*.env
+
+# Cache
+/cache/
+
+# Temporary directories
+temp_docx/
+sippi/  # Duplicate directory
+
+# Database dumps (except schema)
+*.sql
+!database/sippi.sql
